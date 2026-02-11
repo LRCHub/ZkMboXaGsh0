@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Smiling down",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-02-11T12:28:00.595585Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Smiling down",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_Smiling_down_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Smiling Down",
+      "artist": "Pillar",
+      "has_synced": false,
+      "path": "select/02_Smiling_Down_Pillar.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Smiling down",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_Smiling_down_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "He's Smiling Down",
+      "artist": "George Carlin",
+      "has_synced": false,
+      "path": "select/04_He's_Smiling_Down_George_Carlin.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ONE OK ROCK - Smiling Down",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/05_ONE_OK_ROCK_-_Smiling_Down_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Smiling Down",
+      "artist": "Jump Little Children",
+      "has_synced": false,
+      "path": "select/06_Smiling_Down_Jump_Little_Children.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Smiling Down On Me",
+      "artist": "Galen Crew",
+      "has_synced": true,
+      "path": "select/07_Smiling_Down_On_Me_Galen_Crew.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Smiling Down",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/08_Smiling_Down_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Smiling Down",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/09_Smiling_Down_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Smiling Down",
+      "artist": "Jump, Little Children",
+      "has_synced": false,
+      "path": "select/10_Smiling_Down_Jump,_Little_Children.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Smiling down",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Smiling_down_ONE_OK_ROCK.txt"
+    }
+  ]
+}
